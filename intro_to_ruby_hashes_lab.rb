@@ -40,7 +40,7 @@ def monopoly_with_third_tier
          },
         :b_and_o_railroad => {
          },
-        :shortlined_railroad => {
+        :shortline_railroad => {
         }
       }
      }
@@ -71,7 +71,7 @@ def monopoly_with_fourth_tier
         :b_and_o_railroad => {
           :mortgage_value => 400
          },
-        :shortlined_railroad => {
+        :shortline_railroad => {
           :mortgage_value => 800
         }
       }
